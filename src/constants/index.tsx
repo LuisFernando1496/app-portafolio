@@ -25,7 +25,7 @@ import {
   iconMercaArte,
   iconInusual,
   iconMemorial,
-} from "../assets";
+} from "../app-portafolio/assets";
 
 export const navLinks = [
   {
