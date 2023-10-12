@@ -1,6 +1,6 @@
 // import { motion } from "framer-motion";
 import { styles } from "../styles";
-import { banner } from "../app-portafolio/assets";
+import { banner } from "../assets";
 
 const Hero = () => {
     return (
