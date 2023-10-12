@@ -1,11 +1,8 @@
 
-import { technologies } from "../constants";
+
 // import { BallCanvas } from "./";
 
-type technology = {
-    name:string,
-    icon: string
-}
+
 const Tech = () => {
     return (
         <div className="flex flex-row flex-wrap justify-center gap-10">
