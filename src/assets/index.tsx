@@ -23,6 +23,7 @@ import threejs from "./tech/threejs.svg";
 
 
 
+
 import icon from "./icon.png";
 import iconMaya from "./iconMaya.png"
 import iconMercaArte from "./iconMercaArte.png"
