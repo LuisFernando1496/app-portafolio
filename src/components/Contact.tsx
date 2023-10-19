@@ -21,7 +21,7 @@ const Contact = () => {
   const handleSubmit = (e: any) => {
     e.preventDefault();
     setLoading(true);
-    // console.log(form);
+    
     emailjs
       .send(
         "service_ayyypzc",
@@ -68,7 +68,7 @@ const Contact = () => {
   }
   return (
     <div
-    className="w-[100%]"
+    className={`xl:mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}
     >
       <motion.div
         variants={slideIn("left", "tween", 0.2, 1)}
